@@ -1,0 +1,1 @@
+bg_image = Image.open("C:\\Users\\kunal\\Pictures\\images2.jpg")
